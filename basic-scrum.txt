@@ -1,0 +1,20 @@
+Basic Scrum
+
+3 roles:
+- Product Owner: list tasks, create & assign tasks, decide the priorities tasks base on client’s requirements.
+- Scrum Master: control team with all tasks are effective and meet the deadlines.
+- Team (Dev team): software engineers, testers, writer, PM, etc.
+
+1 sprint (1-3 weeks)
+- Sprint: Plan, build, test and review
+=> Deliverable Product
+
+Product Backlog: saving user stories(tasks) from Product Owner
+Sprint Backlog: saving some tasks that need to do in next sprint
+User stories: Tasks descriptions (As a …, I need to do …., so that ……)
+
+3 Meetings:
+- Sprint planning: Meeting before starting a sprint with tasks from Product Backlog
+    - Estimate: how many people do to do? How many stories point  
+- Daily stand up/ Daily meeting: Meeting after creating sprint and sync information of the team( done, in progress and todo)
+- Sprint Review/Restrospective: Normally, meeting at the last day of sprint for catching up and reviewing with some things done from the sprint.
