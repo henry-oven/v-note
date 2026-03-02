@@ -9,3 +9,4 @@
 7. Code Editor - Vs code
 8. Code Editor Extensions
 9. Break, Flux
+10. 10. Accounts: GitHub, Atlassian, slack, google(gmail)
