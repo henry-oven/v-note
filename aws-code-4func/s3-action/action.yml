@@ -1,0 +1,9 @@
+name: "S3/CloudFront Deploy"
+description: "Sync a directory to an AWS S3 repository and invalidate CloudFront cache."
+branding:
+  icon: upload-cloud
+  color: red
+author: staevs
+runs:
+  using: docker
+  image: Dockerfile
