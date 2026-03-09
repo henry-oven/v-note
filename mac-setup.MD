@@ -8,5 +8,6 @@
 6. pyenv - python
 7. Code Editor - Vs code
 8. Code Editor Extensions
-9. Break, Flux
-10. Accounts: GitHub, Atlassian, slack, google(gmail)
+9. Postman
+10. Break, Flux
+11. Accounts: GitHub, Atlassian, slack, google(gmail)
