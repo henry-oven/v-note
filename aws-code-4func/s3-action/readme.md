@@ -75,6 +75,7 @@ Highly durable (11 9s), scalable, and accessible via HTTP(S) API, AWS SDKs, CLI,
 }
 ```
 Note: Avoid public buckets unless intentionally serving public content (e.g., static website).
+
 5. Security best practices
 - Keep buckets private by default.
 - Use IAM roles for AWS services (avoid long-lived access keys).
